@@ -1,0 +1,102 @@
+body
+{
+    border: 3px black ridge;
+    padding:0;
+    margin:0;
+    color:white;
+}
+
+header
+{
+    background-image:url(../images/kindajean_@2X.png);
+    padding:10px;
+    width:100%;
+    color:#8a2be2;
+    font-family: Arial,serif;
+    text-align: center;
+	text-shadow: 2px 2px 4px black;
+}
+
+h1
+{
+    color:#8a2be2;
+    font-family: Arial,serif;
+    text-align: center;
+	text-shadow: 2px 2px 4px black;
+}
+
+main
+{
+    background-image:url(../images/symphony.png);
+    padding:10px;
+    width:100%;
+}
+
+h2
+{
+    color:maroon;
+}
+
+p
+{
+    text-align:justify;
+    color: blue;
+}
+
+ul li
+{
+    list-style-type:none;
+    color:black;
+}
+
+footer
+{
+    background-image:url(../images/school.png);
+    padding:10px;
+    width:100%;
+    bottom:0;
+}
+
+footer p{
+    text-align:center;
+    width:20%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    margin-left:30px;
+}
+
+.introduction
+{
+    text-align: center;
+}
+
+.conteneur{
+    margin:15px;
+    padding:10px;
+}
+
+.colonne{
+    width:400%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+}
+
+.imageflottante
+{
+	float: right;
+}
+
+.dessous
+{
+    clear: both;
+}
+
+iframe
+{
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    
+}
